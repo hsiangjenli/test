@@ -1,2 +1,9 @@
-for i in range(10, 20):
-    print(i)
+
+
+
+
+
+
+
+for r in range(1, 1000):
+    print(r)
