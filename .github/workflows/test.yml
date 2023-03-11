@@ -1,4 +1,4 @@
-name: Deploy
+name: Auto change log
 
 on:
   push:
