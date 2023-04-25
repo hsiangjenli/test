@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.9.0] - 2023-04-25
+### :sparkles: New Features
+- [`7661768`](https://github.com/hsiangjenli/test/commit/76617685e8355a21b0bfd64f8e474e8ad892dce1) - ast *(commit by [@hsiangjenli](https://github.com/hsiangjenli))*
+
+
 ## [v1.7.0] - 2023-03-11
 ### :boom: BREAKING CHANGES
 - due to [`4a08c6d`](https://github.com/hsiangjenli/test/commit/4a08c6d3269d59098f7374ef275d1ff9c7bd56b2) - commit with scope and important *(commit by [@hsiangjenli](https://github.com/hsiangjenli))*:
@@ -29,3 +34,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [v1.6.0]: https://github.com/hsiangjenli/test/compare/v.0.0.4...v1.6.0
 [v1.7.0]: https://github.com/hsiangjenli/test/compare/v1.6.0...v1.7.0
+[v1.9.0]: https://github.com/hsiangjenli/test/compare/v1.8.0...v1.9.0
